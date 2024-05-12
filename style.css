@@ -24,8 +24,8 @@
     }
     
     .mensagem {
-        top: 45vh;
-        left: 80px;
+        /* top: 45vh;
+        left: 80px; */
         padding: 20px;
         position: absolute;
         border: 3px solid #44ff4a; /* Borda de 2px na cor verde */
