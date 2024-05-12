@@ -34,7 +34,7 @@
         color: rgb(255, 255, 255);
         font-size: 16px;
         font-weight: 600;
-        animation: blink;
+        transition: 0.3s;
     }
 
     .containerImagem{
