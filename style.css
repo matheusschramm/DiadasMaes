@@ -25,7 +25,7 @@
     
     .mensagem {
         top: 45vh;
-        left: 80px;
+        left: 90px;
         padding: 20px;
         position: absolute;
         border: 3px solid #44ff4a; /* Borda de 2px na cor verde */
@@ -54,11 +54,11 @@
     }
 
     .mensagem1{
-        top: 200px;
-        left: 170px;
-        padding: 40px;
+        top: 300px;
+        left: 90px;
+        padding: 20px;
         position: fixed;
-        border: 6px solid #44ff4a; /* Borda de 2px na cor verde */
+        border: 2px solid #44ff4a; /* Borda de 2px na cor verde */
         border-radius: 30px; /* Borda arredondada */
         background-color: #44ff4a;
         color: #ffffff;
