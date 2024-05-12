@@ -32,7 +32,7 @@
         border-radius: 30px; /* Borda arredondada */
         background-color: rgba(0, 133, 18, 0.356);
         color: rgb(255, 255, 255);
-        font-size: 64px;
+        font-size: 16px;
         font-weight: 600;
         animation: blink;
     }
@@ -62,7 +62,7 @@
         border-radius: 30px; /* Borda arredondada */
         background-color: #44ff4a;
         color: #ffffff;
-        font-size: 36px;
+        font-size: 16px;
         font-weight: 600;
 
     }
