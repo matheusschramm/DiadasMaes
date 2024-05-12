@@ -5,6 +5,7 @@
     function mostrarProximaImagem() {
         var botao = document.querySelector("#botao");
         var titulo = document.querySelector("#titulo");
+        var imgDeletar = document.querySelector("#imgDel");
         
         botao.style.backgroundColor = "#ffffff3b";
         botao.style.color = "#ffffff";
@@ -21,6 +22,9 @@
         // Avança para a próxima imagem
         indexAtual++;
         if (indexAtual >= imagens.length) {
+            if(imgDeletar){
+                imgDeletar.remove();
+            }
         indexAtual = 0; // Volta para a primeira imagem se chegou ao final
         }
     
