@@ -25,10 +25,10 @@
     
     .mensagem {
         top: 45vh;
-        left: 160px;
-        padding: 40px;
+        left: 80px;
+        padding: 20px;
         position: absolute;
-        border: 6px solid #44ff4a; /* Borda de 2px na cor verde */
+        border: 3px solid #44ff4a; /* Borda de 2px na cor verde */
         border-radius: 30px; /* Borda arredondada */
         background-color: rgba(0, 133, 18, 0.356);
         color: rgb(255, 255, 255);
